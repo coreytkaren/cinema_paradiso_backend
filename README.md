@@ -16,7 +16,7 @@ Check out [API LIVE DEMO](https://cinemaparadisobackend.coreytkaren.repl.co) her
 
 ## How to Install
 1. Git Clone
-git clone   
+git clone https://github.com/coreytkaren/cinema_paradiso_backend.git  
 2. Backend setting
 cd backend
 python -m venv env
